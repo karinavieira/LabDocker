@@ -10,6 +10,9 @@ https://hub.docker.com/repository/registry-1.docker.io/vieirakrn/myfirstapp/tags
 
 (https://user-images.githubusercontent.com/32457262/130705696-56f8d182-c6ab-4806-8350-646123af3026.png)
 
+(https://user-images.githubusercontent.com/32457262/130706896-82c18082-bf6f-45ca-acf9-78702ec6a26e.png)
+
+
 
 
 
